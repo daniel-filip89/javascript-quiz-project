@@ -53,4 +53,3 @@ class Quiz {
     }
 }
 
-console.log(Hello);
